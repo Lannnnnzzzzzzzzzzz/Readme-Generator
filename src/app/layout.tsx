@@ -13,19 +13,19 @@ export const metadata: Metadata = {
 
   title: "AI README Generator for GitHub | Create README.md Instantly",
   description:
-    "Generate professional GitHub README.md files in seconds with our AI-powered markdown editor. Simply provide a repository URL to get a well-structured, ready-to-use README.",
+    "Buat file README.md GitHub profesional dalam hitungan detik dengan editor markdown bertenaga AI kami. Cukup masukkan URL repositori untuk mendapatkan README yang terstruktur dan siap pakai.",
 
   keywords:
-    "ai readme generator, github readme generator, markdown generator, create readme.md, automatic readme, github profile readme, professional readme",
+    "generator readme AI, generator readme GitHub, generator Markdown, buat readme.md, readme otomatis, readme profil GitHub, readme profesional",
 
   icons: {
     icon: "/file.svg",
   },
 
   openGraph: {
-    title: "AI README Generator for GitHub",
+    title: "AI README Generator untuk GitHub",
     description:
-      "Instantly create professional README.md files for your GitHub repositories using AI.",
+      "Buat file README.md profesional secara instan untuk repositori GitHub Anda menggunakan AI.",
     url: productionUrl,
     siteName: "AI README Generator",
     images: [
@@ -33,7 +33,7 @@ export const metadata: Metadata = {
         url: "/og-image.png",
         width: 1200,
         height: 630,
-        alt: "AI README Generator for GitHub",
+        alt: "AI README Generator untuk GitHub",
       },
     ],
     locale: "en_US",
@@ -41,9 +41,9 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: "summary_large_image",
-    title: "AI README Generator for GitHub",
+    title: "AI README Generator untuk GitHub",
     description:
-      "Instantly create professional README.md files for your GitHub repositories using AI.",
+      "Buat file README.md profesional secara instan untuk repositori GitHub Anda menggunakan AI.",
     images: ["/og-image.png"],
   },
 
